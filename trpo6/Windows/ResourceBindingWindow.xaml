@@ -1,0 +1,28 @@
+﻿<Window x:Class="trpo6.Windows.ResourceBindingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:trpo6.Windows"
+        xmlns:classes="clr-namespace:trpo6.Classes"
+        mc:Ignorable="d"
+        Title="ResourceBindingWindow" Height="450" Width="800"
+        ResizeMode="NoResize">
+    
+    <Window.Resources>
+        <classes:Cow x:Key="Buryonka" Name="Буренка" Voice="Муууу"
+Image="C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\Images\pict.jpg" Age="5" />
+    </Window.Resources>
+    <Grid>
+        <Canvas>
+            <Image Source="{Binding Source={StaticResource Buryonka},Path=Image}" Width="200"
+Canvas.Left="164" Canvas.Top="111" />
+            <Label Content="{Binding Source={StaticResource Buryonka},Path=Name}"
+FontSize="24" Canvas.Left="210" Canvas.Top="64" />
+            <Label Content="{Binding Source={StaticResource Buryonka},Path=Voice}"
+FontSize="20" Canvas.Left="328" Canvas.Top="111" />
+            <Label Content="{Binding Source={StaticResource Buryonka},Path=FullAgeString}"
+FontSize="18" Canvas.Left="144" Canvas.Top="316" />
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\MainWindow.g.cs
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\Windows\ElementsBindingWindow.g.cs
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\Windows\ResourceBindingWindow.g.cs
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\App.g.cs
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\trpo6_MarkupCompile.cache
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\trpo6_MarkupCompile.lref
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\trpo6.csproj.AssemblyReference.cache
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\MainWindow.baml
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\Windows\ElementsBindingWindow.baml
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\trpo6.exe
+C:\Users\328-4\Desktop\Шумкова ПР-31\trpo6\obj\Debug\trpo6.pdb
